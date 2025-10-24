@@ -9,4 +9,4 @@
     circumference = 3.14 * radius * radius;
     printf("The surface area of the cylinder is: %d\n", area);
     printf("The circumference of the cylinder is: %d\n", circumference);
-  }
+  };
