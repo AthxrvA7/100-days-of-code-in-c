@@ -6,4 +6,4 @@
     printf("Their difference is %d\n", a-b);
     printf("Their product is %d\n", a*b);
     printf("Their quotient is %d\n", a/b);
-  }
+  };
