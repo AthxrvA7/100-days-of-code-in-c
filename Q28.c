@@ -10,4 +10,4 @@ int main() {
         product *= i;
     }
     printf("The product of even numbers from 1 to %d is: %d\n", n, product);
-}
+};
